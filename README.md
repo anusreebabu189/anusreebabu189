@@ -1,84 +1,113 @@
-# Hi 👋 I'm Anusree Babu
+<h1 align="left">Hi 👋 I'm Anusree Babu</h1>
 
-💻 Backend Engineer | Java | Spring Boot | Payment Systems
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&left=true&vleft=true&width=600&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Payment+Systems+Developer;Microservices+Enthusiast" />
+</p>
 
----
-
-## 👩‍💻 About Me
-
-Backend engineer with **7+ years experience** building systems in **Fintech, Retail, Travel and Enterprise platforms**.
-
-Currently working on **POS payment systems and terminal integrations**.
+<p align="left">
+Building scalable backend systems and payment platforms
+</p>
 
 ---
 
-## ⚡ Tech Stack
+# 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+<p align="left">
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Yii](https://img.shields.io/badge/Yii-40B3D8?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,mysql,mongodb,git" />
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
-### Architecture
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/EventDriven-Systems-orange?style=for-the-badge)
+</p>
 
 ---
 
-## 💼 Experience Snapshot
+# ⚙️ Backend Focus
 
-| System | Tech |
-|------|------|
+<p align="left">
+
+<img src="https://img.shields.io/badge/SpringBoot-Microservices-green?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/gRPC-Streaming-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EventDriven-Architecture-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POS-PaymentSystems-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+<p align="left">
+
+| Platform | Stack |
+|--------|-------|
 | 💳 POS Payment System | Java • Spring Boot • gRPC • RxJava |
 | 📱 JustBorrow Rental App | Java • Spring Boot • SQL |
 | 🏨 iTravel Hospitality | Java • Spring • XSLT |
-| 🏢 ERP Platform | Yii1 • Yii2 • SQL |
-| ✈️ Air Canada System | PL/SQL |
+| 🏢 ERP System | Yii1 • Yii2 • SQL |
+| ✈ Air Canada | PL/SQL |
 | 🛒 POS Retail App | NodeJS • MongoDB |
 
----
-
-## 🚀 Focus Areas
- 
-🧩 Backend Microservices  
-📡 API Design  
-🖥 POS Device Integration  
-⚡ Event Driven Systems  
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusreebabu189&show_icons=true&theme=default)
+<p align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anusreebabu189&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusreebabu189&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+# 🔥 Contribution Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anusreebabu189&layout=compact)
+<p align="left">
+
+<img src="https://streak-stats.demolab.com?user=anusreebabu189&theme=tokyonight" />
+
+</p>
+
 ---
 
-## 📚 Currently Learning
+# 📈 GitHub Activity Graph
 
-⚙ JVM Internals  
-🧵 Java Concurrency  
+<p align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anusreebabu189&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="left">
+
+🧠 JVM Internals  
+⚡ Java Concurrency  
 🏗 System Design  
 
+</p>
+
 ---
 
-## 📫 Connect
+# 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/anusree-babu-377171167/
+<p align="left">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="left">
+
+⭐ Always exploring better ways to build **scalable backend systems**
+
+</p>
